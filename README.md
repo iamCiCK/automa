@@ -9,6 +9,7 @@
   <a href="https://discord.gg/C6khwwTE84">
     <img alt="Chat with us on Discord" src="https://img.shields.io/discord/942211415517835354?label=join%20discord&logo=Discord&logoColor=white" />
   </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FiamCiCK%2Fautoma?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FiamCiCK%2Fautoma.svg?type=shield"/></a>
 </p>
 
 An extension for automating your browser by connecting blocks. <br />
@@ -97,3 +98,6 @@ Thanks to everyone who has submitted issues, made suggestions, and generally hel
 Source code in this repository is variously licensed under the GNU Affero General Public License (AGPL), or the [Automa Commercial License](https://www.automa.site/license/commercial/).
 
 See [LICENSE.txt](./LICENSE.txt) for details.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FiamCiCK%2Fautoma.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FiamCiCK%2Fautoma?ref=badge_large)
